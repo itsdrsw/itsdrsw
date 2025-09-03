@@ -4,7 +4,6 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=itsdrsw&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=itsdrsw&theme=dark&hide_border=true)<br/>
 </div>
 
